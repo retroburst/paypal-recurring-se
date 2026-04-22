@@ -4,6 +4,11 @@ This package makes integration of PayPal's recurring payments easier in your nex
 This version fixes problems with profile start dates and removes the coffee script, replacing it with
 plain JavaScript.
 
+Requirements
+============
+
+- Node.js 18 or later (uses the native `fetch` API)
+
 Installation
 ============
   
